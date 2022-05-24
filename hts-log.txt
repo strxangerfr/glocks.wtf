@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 24 May 2022 17:57:08 at https://ruub.dev/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "en, *" https://ruub.dev/ -O1 "C:\My Web Sites\wwwww" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:57:08	Warning: 	Found for https://ruub.dev/robots.txt
+17:57:08	Warning: 	File has moved from https://ruub.dev/robots.txt to 404.html
+17:57:09	Warning: 	Unable to test https://ruub.dev/âhttps://404.html (loop to same filename)
+17:57:09	Warning: 	link is probably looping, type unknown, aborting: https://ruub.dev/âhttps://404.html
+17:57:13	Warning: 	Unable to test https://ruub.dev/domain/assets/logo/404.html (loop to same filename)
+17:57:13	Warning: 	link is probably looping, type unknown, aborting: https://ruub.dev/domain/assets/logo/404.html
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 seconds : 14 links scanned, 13 files written (4288966 bytes overall) [4280620 bytes received at 713436 bytes/sec], 45637 bytes transferred using HTTP compression in 8 files, ratio 36%, 9.5 requests per connection
+(No errors, 6 warnings, 0 messages)
